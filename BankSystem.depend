@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1483582887 source:c:\users\hjz\desktop\banksystem\main.cpp
+	<iostream>
+	"Account.h"
+	"linkList.h"
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+
+1483534251 c:\users\hjz\desktop\banksystem\account.h
+	"linkList.h"
+
+1483635240 source:c:\users\ÍõÊåÊå\desktop\banksystem\main.cpp
+	<iostream>
+	"Account.h"
+	"linkList.h"
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+
+1483534251 c:\users\ÍõÊåÊå\desktop\banksystem\account.h
+	"linkList.h"
+
+1483534098 c:\users\ÍõÊåÊå\desktop\banksystem\linklist.h
+	<stdio.h>
+	<stdlib.h>
+
+1483534098 c:\users\hjz\desktop\banksystem\linklist.h
+	<stdio.h>
+	<stdlib.h>
+
+1483665748 source:e:\c++\banksystem\main.cpp
+	<iostream>
+	"Account.h"
+	"linkList.h"
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+
+1483534251 e:\c++\banksystem\account.h
+	"linkList.h"
+
+1483534098 e:\c++\banksystem\linklist.h
+	<stdio.h>
+	<stdlib.h>
+
